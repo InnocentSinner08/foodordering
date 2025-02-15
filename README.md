@@ -1,1 +1,1 @@
-# foodordering
+Simple project on SQL
